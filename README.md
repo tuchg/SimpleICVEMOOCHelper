@@ -5,6 +5,9 @@
 > 另外希望职教云团队多点专业素养，这么大平台,这么多低级的bug，可以考虑多请几个测试，各种越权,无权API层出不穷，影响很恶劣
 
 ### 一个简单基于油猴+jquery 开发实现的智慧职教MOOC,职教云自动化网课学习助手
+> 因个人原因，`commit log` 已统一销毁，更详细的记录可[移步](https://greasyfork.org/zh-CN/scripts/396813/versions?page=3)
+<details>
+<summary>迭代史</summary>
 
 - 支持自动评论
 
@@ -53,6 +56,9 @@
 - 添加智能讨论(ver 3.6 added)
 
 - ........
+</details>
+
+
 
 ```js
 接口对接规范(JSON) 请求方式 GET
